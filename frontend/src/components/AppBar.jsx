@@ -3,7 +3,7 @@ export const AppBar = () => {
 		<>
 			<div className="flex h-18 justify-between bg-white p-3 shadow-md">
 				<div>
-					<h1 className="text-2xl font-bold text-gray-800 ">Nakli-PayTM</h1>
+					<h1 className="text-2xl font-bold text-gray-800 ">BrokeTM</h1>
 				</div>
 				<div className="flex">
 					<div className="pt-4 px-2 font-semibold">Hello, User</div>
